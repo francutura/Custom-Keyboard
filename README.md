@@ -20,7 +20,7 @@ cp custom_layout /usr/share/X11/xkb/symbols
 ```
 ---
 ### Step 3 
-> In **evdev.xml**
+> In **/usr/share/X11/xkb/rules/evdev.xml**
 
 > Find **\<layoutList\>** line and insert layout definition. e.g. below
 
