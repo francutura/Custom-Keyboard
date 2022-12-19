@@ -56,4 +56,6 @@ xkb_symbols "basic" {
     key <AB10> {	[     slash,	question	]	};
 
     key <BKSL> {	[ backslash, bar, zcaron, Zcaron	]	};
+    key <ESC>  {    [ Caps_Lock             ]       };
+    key <CAPS> {    [ Escape                ]       };
 };
