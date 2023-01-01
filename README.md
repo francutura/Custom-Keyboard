@@ -36,3 +36,7 @@ cp custom_layout /usr/share/X11/xkb/symbols
     </configItem>
 </layout>
 ```
+
+### Step 4
+> Run the following command to select the custom keyboard
+> setxkbmap -layout custom_layout
